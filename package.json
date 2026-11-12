@@ -1,0 +1,8 @@
+{
+  "name": "madares-ahad-server",
+  "version": "1.0.0",
+  "description": "سيرفر مزامنة مدارس الأحد بين التليفونات",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
